@@ -1,14 +1,8 @@
 # require 'slack-notifier'
 
 class Notifier
-  def initialize
-    @notifier = Slack::Notifier.new(ENV['SLACK_WEBHOOK_URL']) do
-      defaults(
-        channel: '#random',
-        username: 'notifier',
-      )
-    end
-  end
+  CHANNEL = '#random'
+  USERNAME = 'notifier'
 
   def send(message)
     notifier.ping(message)
@@ -16,5 +10,9 @@ class Notifier
 
   private
 
-  attr_reader :notifier
+  def notifier
+    @notifier ||= Slack::Notifier.new(ENV['SLACK_WEBHOOK_URL']) do
+      defaults(channel: CHANNEL, username: USERNAME)
+    end
+  end
 end
