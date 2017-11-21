@@ -1,5 +1,3 @@
-# require 'slack-notifier'
-
 class Notifier
   CHANNEL = '#random'
   USERNAME = 'notifier'

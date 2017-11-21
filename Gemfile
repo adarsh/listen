@@ -16,11 +16,11 @@ gem 'recipient_interceptor'
 gem 'sass-rails', '~> 5.0'
 gem 'sidekiq'
 gem 'slack-notifier'
+gem 'slack-ruby-client'
 gem 'sprockets', '>= 3.0.0'
 gem 'suspenders'
 gem 'title'
 gem 'uglifier'
-
 
 group :development do
   gem 'listen'
