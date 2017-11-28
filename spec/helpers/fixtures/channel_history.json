@@ -1,0 +1,82 @@
+{
+  "ok":true,
+  "messages":[
+    {
+      "type":"message",
+      "user":"U1T6CRY11",
+      "text":"hello1",
+      "ts":"1511297677.000569"
+    },
+    {
+      "type":"message",
+      "user":"U1T6CRY11",
+      "text":"hello2",
+      "ts":"1511297677.000569"
+    },
+    {
+      "text":"added an integration to this channel: \u003chttps://cylinderdigital.slack.com/services/B83ULS9EG|listen\u003e",
+      "bot_id":"B83ULS9EG",
+      "bot_link":"\u003chttps://cylinderdigital.slack.com/services/B83ULS9EG|listen\u003e",
+      "type":"message",
+      "subtype":"bot_add",
+      "user":"U1T6CRY11",
+      "ts":"1511297625.000270"
+    },
+    {
+      "text":"added an integration to this channel: \u003chttps://cylinderdigital.slack.com/services/B83UKM53N|listen\u003e",
+      "bot_id":"B83UKM53N",
+      "bot_link":"\u003chttps://cylinderdigital.slack.com/services/B83UKM53N|listen\u003e",
+      "type":"message",
+      "subtype":"bot_add",
+      "user":"U1T6CRY11",
+      "ts":"1511297479.000633"
+    },
+    {
+      "text":"added an integration to this channel: \u003chttps://cylinderdigital.slack.com/services/B8420CXT7|listen\u003e",
+      "bot_id":"B8420CXT7",
+      "bot_link":"\u003chttps://cylinderdigital.slack.com/services/B8420CXT7|listen\u003e",
+      "type":"message",
+      "subtype":"bot_add",
+      "user":"U1T6CRY11",
+      "ts":"1511297379.000240"
+    },
+    {
+      "text":"Hello from Rails",
+      "bot_id":"B83UG8R8D",
+      "type":"message",
+      "subtype":"bot_message",
+      "ts":"1511290112.000727"
+    },
+    {
+      "text":"Hello from Rails",
+      "bot_id":"B83UG8R8D",
+      "type":"message",
+      "subtype":"bot_message",
+      "ts":"1511289716.000136"
+    },
+    {
+      "text":"Hello, World!",
+      "bot_id":"B83UG8R8D",
+      "type":"message",
+      "subtype":"bot_message",
+      "ts":"1511288885.000491"
+    },
+    {
+      "text":"added an integration to this channel: \u003chttps://cylinderdigital.slack.com/services/B83UG8R8D|listen\u003e",
+      "bot_id":"B83UG8R8D",
+      "bot_link":"\u003chttps://cylinderdigital.slack.com/services/B83UG8R8D|listen\u003e",
+      "type":"message",
+      "subtype":"bot_add",
+      "user":"U1T6CRY11",
+      "ts":"1511286827.000091"
+    },
+    {
+      "user":"U1T6CRY11",
+      "text":"\u003c@U1T6CRY11\u003e has joined the channel",
+      "type":"message",
+      "subtype":"channel_join",
+      "ts":"1468962490.000002"
+    }
+  ],
+  "has_more":false
+}

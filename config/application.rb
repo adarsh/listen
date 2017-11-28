@@ -8,7 +8,9 @@ require "action_mailer/railtie"
 require "action_view/railtie"
 require "action_cable/engine"
 require "sprockets/railtie"
+
 Bundler.require(*Rails.groups)
+
 module Listen
   class Application < Rails::Application
     config.assets.quiet = true
@@ -24,6 +26,6 @@ module Listen
     config.action_controller.action_on_unpermitted_parameters = :raise
     config.load_defaults 5.1
     config.generators.system_tests = nil
-    config.active_job.queue_adapter = :delayed_job
+    config.active_job.queue_adapter = :sidekiq
   end
 end

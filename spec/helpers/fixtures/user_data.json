@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "profile": {
+    "first_name": "Adarsh",
+    "last_name": "Pandit",
+    "avatar_hash": "387387093c87",
+    "image_24": "https://avatars.slack-edge.com/2016-07-20/61683529302_387387093c87eb6b0eda_24.png",
+    "image_32": "https://avatars.slack-edge.com/2016-07-20/61683529302_387387093c87eb6b0eda_32.png",
+    "image_48": "https://avatars.slack-edge.com/2016-07-20/61683529302_387387093c87eb6b0eda_48.png",
+    "image_72": "https://avatars.slack-edge.com/2016-07-20/61683529302_387387093c87eb6b0eda_72.png",
+    "image_192": "https://avatars.slack-edge.com/2016-07-20/61683529302_387387093c87eb6b0eda_192.png",
+    "image_512": "https://avatars.slack-edge.com/2016-07-20/61683529302_387387093c87eb6b0eda_512.png",
+    "image_1024": "https://avatars.slack-edge.com/2016-07-20/61683529302_387387093c87eb6b0eda_512.png",
+    "image_original": "https://avatars.slack-edge.com/2016-07-20/61683529302_387387093c87eb6b0eda_original.png",
+    "title": "guy",
+    "phone": "123-456-6789",
+    "status_text": "",
+    "status_emoji": "",
+    "real_name": "Adarsh Pandit",
+    "display_name": "adarsh",
+    "real_name_normalized": "Adarsh Pandit",
+    "display_name_normalized": "adarsh",
+    "email": "adarsh@example.com",
+    "fields": null
+  }
+}

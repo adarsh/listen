@@ -2,7 +2,7 @@ class Notifier
   CHANNEL = '#random'
   USERNAME = 'notifier'
 
-  def send(message)
+  def send_message(message:)
     notifier.ping(message)
   end
 

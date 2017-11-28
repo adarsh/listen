@@ -38,6 +38,7 @@ group :development, :test do
   gem 'factory_bot_rails'
   gem 'pry-byebug'
   gem 'pry-rails'
+  gem 'rerun'
   gem 'rspec-rails', '~> 3.6'
 end
 
